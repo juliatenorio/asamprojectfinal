@@ -1,0 +1,19 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="top-title">
+  <h1>The A.R.chives</h1>
+</div>
+
+<div class="hero-wrapper">
+  <img src="rizal.jpeg" class="hero-logo">
+  <h2 class="hero-subtitle">Welcome to the A.R.chives</h2>
+</div>
+
+<div class="intro-box">
+
+Hello! This website demonstrates our family history and roots, which teach us more about our heritage in the Philippines through interview transcripts and image documentation. The name "A.R.chives", is an inspiration taken from our last names, Aceron-Rodil, which is representative of our unique backgrounds and heritage. 
+
+</div>

@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "ASAM135 Project"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Introduction"
+        href: introduction.qmd
+        
+    right:
+      - text: "Education (Julia)"
+      - menu:
+          - text: "Interviews"
+            href: interviewmom.qmd
+          - text: "Transcript Documents"
+            href: transcriptdocuments.qmd
+      - text: "Migration (Alessi)"
+      - menu: 
+          - text: "Oral Histories"
+            href: oralhistorites.qmd
+          - text: "Photo Library"
+            href: alessipictures.qmd
+
+format:
+  html:
+    theme: sandstone
+    theme-options:
+      base-font: "Montserrat"
+      heading-font: "Playfair Display"
+    toc: true
+    css: styles.css
