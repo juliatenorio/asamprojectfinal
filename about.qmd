@@ -11,7 +11,7 @@ page layout: full
 
 ##
 
-![](Headshot1 copy 2.JPG){width=200}
+![](julia's images/Headshot1 copy 2.JPG){width=200}
 
 ## Introduction - Julia Aceron 
 
@@ -32,7 +32,7 @@ How does having education in the Philippines affect views/perspectives on the U.
 
 ##
 
-![](alessi headshot.jpeg){width=200}
+![](alessi's images/alessi headshot.jpeg){width=200}
 
 ## Introduction - Alessi Rodil
 
