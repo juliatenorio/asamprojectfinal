@@ -33,6 +33,6 @@ format:
     theme-options:
       base-font: "Montserrat"
       heading-font: "Playfair Display"
-      output-dir: "_site"
+      output-dir: "docs"
     toc: true
     css: styles.css
