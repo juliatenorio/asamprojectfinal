@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "ASAM135 Project"
   site-url: "https://juliatenorio.github.io/asamprojectfinal/"
@@ -33,6 +34,5 @@ format:
     theme-options:
       base-font: "Montserrat"
       heading-font: "Playfair Display"
-      output-dir: "."
     toc: true
     css: styles.css
