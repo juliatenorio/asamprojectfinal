@@ -1,0 +1,2 @@
+images/* filter=lfs diff=lfs merge=lfs -text
+julia's[[:space:]]images/* filter=lfs diff=lfs merge=lfs -text
