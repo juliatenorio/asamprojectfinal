@@ -29,7 +29,7 @@ Figure 2. List of classes per semester; May 22nd, 1998
 </div>
 
 <div class="right">
-<img src="IMG_1700.jpeg" width="300">
+<img src="julia's images/IMG_1700.jpeg" width="300">
 </div>
 :::
 ::: {.container}
@@ -38,7 +38,7 @@ Figure 3. Continued list of classes; May 22nd, 1998
 </div>
 
 <div class="right">
-<img src="IMG_1701.jpeg" width="300">
+<img src="julia's images/IMG_1701.jpeg" width="300">
 </div>
 :::
 
@@ -48,6 +48,6 @@ Figure 1. Final list of classes; May 22nd, 1998
 </div>
 
 <div class="right">
-<img src="IMG_1702.jpeg" width="300">
+<img src="julia's images/IMG_1702.jpeg" width="300">
 </div>
 :::
