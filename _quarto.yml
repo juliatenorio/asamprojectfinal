@@ -3,10 +3,11 @@ project:
 
 website:
   title: "ASAM135 Project"
+  site-url: "https://juliatenorio.github.io/asamprojectfinal/"
   navbar:
     left:
       - text: "Home"
-        href: index.html
+        href: index.qmd
       - text: "About"
         href: about.qmd
       - text: "Introduction"
