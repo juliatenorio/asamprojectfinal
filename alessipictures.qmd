@@ -172,6 +172,6 @@ Figure 16. Maridi Rodil (second to right) reunites with her brother, Mark Rodil 
 </div>
 
 <div class="right">
-<img src="IMG_6059.PNG" width="300">
+<img src="alessi's images/IMG_6059.PNG" width="300">
 </div>
 :::
