@@ -19,7 +19,7 @@ Figure 1. My grandparents, Shirley and Larry Rodil on their wedding day in Manil
 </div>
 
 <div class="right">
-<img src="IMG_2494.JPG" width="300">
+<img src="alessi's images/IMG_2494.JPG" width="300">
 </div>
 :::
 
@@ -29,7 +29,7 @@ Figure 2. My grandfather, Larry Rodil, holding my dad, Mark.
 </div>
 
 <div class="right">
-<img src="IMG_4268 2.jpeg" width="300">
+<img src="alessi's images/IMG_4268 2.jpeg" width="300">
 </div>
 :::
 
@@ -39,7 +39,7 @@ Figure 3. Mark (second to right) and friends in Sta. Ana, Philippines.
 </div>
 
 <div class="right">
-<img src="alessi pic 2.JPG" width="300">
+<img src="alessi's images/alessi pic 2.JPG" width="300">
 </div>
 :::
 
@@ -49,7 +49,7 @@ Figure 4. Mark with his parents and grandparents in Sta. Ana, Philippines.
 </div>
 
 <div class="right">
-<img src="IMG_4272.jpeg" width="300">
+<img src="alessi's images/IMG_4272.jpeg" width="300">
 </div>
 :::
 
@@ -59,7 +59,7 @@ Figure 5. My grandparents, Lola Shirley (left) and Lolo Larry (right), in Saudi 
 </div>
 
 <div class="right">
-<img src="IMG_3912.jpeg" width="300">
+<img src="alessi's images/IMG_3912.jpeg" width="300">
 </div>
 :::
 
@@ -69,7 +69,7 @@ Figure 6. Shirley Rodil with her children, Mark and Maridi, behind her in Sta. A
 </div>
 
 <div class="right">
-<img src="IMG_3745.jpeg" width="300">
+<img src="alessi's images/IMG_3745.jpeg" width="300">
 </div>
 :::
 
@@ -79,7 +79,7 @@ Figure 7. Mark next to his sister, Maridi, and grandfather, Tony, in Sta. Ana, P
 </div>
 
 <div class="right">
-<img src="alessi pic 1.JPG" width="300">
+<img src=alessi's images/alessi pic 1.JPG" width="300">
 </div>
 :::
 
@@ -89,7 +89,7 @@ Figure 8. Shirley and Mark Rodil at Sta. Ana, Philippines
 </div>
 
 <div class="right">
-<img src="IMG_7650.PNG" width="300">
+<img src="alessi's images/IMG_7650.PNG" width="300">
 </div>
 :::
 
@@ -99,7 +99,7 @@ Figure 9. My grandparents and their children with friends in Saudi Arabia
 </div>
 
 <div class="right">
-<img src="IMG_1132.JPG" width="300">
+<img src="alessi's images/IMG_1132.JPG" width="300">
 </div>
 :::
 
@@ -109,7 +109,7 @@ Figure 10. International Philippine School in Alkhobar, Saudi Arabia
 </div>
 
 <div class="right">
-<img src="IMG_1133.JPG" width="300">
+<img src="alessi's images/IMG_1133.JPG" width="300">
 </div>
 :::
 
@@ -119,7 +119,7 @@ Figure 11. Mark Rodil with his class in the International Philippine School in A
 </div>
 
 <div class="right">
-<img src="IMG_1140.JPG" width="300">
+<img src="alessi's images/IMG_1140.JPG" width="300">
 </div>
 :::
 
@@ -129,10 +129,10 @@ Figure 11,12. Christmas with the Rodil and Lee Family in California, U.S.
 </div>
 
 <div class="right">
-<img src="alessi pic 3.JPG" width="300">
+<img src="alessi's images/alessi pic 3.JPG" width="300">
 </div>
 <div class="right">
-<img src="alessi pic 4.JPG" width="300">
+<img src="alessi's images/alessi pic 4.JPG" width="300">
 </div>
 :::
 
@@ -142,7 +142,7 @@ Figure 13. Mark Rodil in the Philippines
 </div>
 
 <div class="right">
-<img src="IMG_3166.PNG" width="300">
+<img src="alessi's images/IMG_3166.PNG" width="300">
 </div>
 :::
 
@@ -152,7 +152,7 @@ Figure 14. Shirley Rodil (left) celebrating her niece, Shary Lee's graduation in
 </div>
 
 <div class="right">
-<img src="IMG_2089.JPG" width="300">
+<img src="alessi's images/IMG_2089.JPG" width="300">
 </div>
 :::
 
@@ -162,7 +162,7 @@ Figure 15. Mark Rodil (left) at a protest at the University of the Philippines
 </div>
 
 <div class="right">
-<img src="IMG_2115.JPEG" width="300">
+<img src="alessi's images/IMG_2115.JPEG" width="300">
 </div>
 :::
 
