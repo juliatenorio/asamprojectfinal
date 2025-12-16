@@ -18,9 +18,16 @@ website:
       - text: "Education (Julia)"
       - menu:
           - text: "Interviews"
+          - text: "Interview – Mom"
             href: interviewmom.qmd
-          - text: "Transcript Documents"
+          - text: "Interview – Tita"
+            href: interviewtita.qmd
+          - text: "Photo Library"
+          - text: "Aceron's Gallery"
             href: transcriptdocuments.qmd
+          - text: "Dia's Gallery"
+            href: diasphotos.qmd
+          
       - text: "Migration (Alessi)"
       - menu: 
           - text: "Oral Histories"

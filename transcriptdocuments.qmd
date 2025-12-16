@@ -8,14 +8,63 @@ page-layout: full
 </div>
 
 <div class="hero-wrapper">
-  <h2 class="hero-subtitle">Transcript Documents</h2>
+  <h2 class="hero-subtitle">Photo Library</h2>
 </div>
 
 <div class="intro-box">
 
 ::: {.container}
 <div class="left">
-Figure 1. Full transcript of transferable credits to the U.S. 
+Figure 1. Liza Aceron (second from the right) with her classmates. 
+</div>
+
+<div class="right">
+<img src="julia's images/IMG_2034.JPG" width="300">
+</div>
+:::
+
+::: {.container}
+<div class="left">
+Figure 2. Liza Aceron (first on the left) with her classmates and teachers (third and fourth from the left). 
+</div>
+
+<div class="right">
+<img src="julia's images/IMG_2035.JPG" width="300">
+</div>
+:::
+
+::: {.container}
+<div class="left">
+Figure 3. Liza Aceron with her classmates outside of school.   
+</div>
+
+<div class="right">
+<img src="julia's images/IMG_2036.JPG" width="300">
+</div>
+:::
+
+::: {.container}
+<div class="left">
+Figure 4. Liza Aceron in her university uniform. 
+</div>
+
+<div class="right">
+<img src="julia's images/IMG_2092.jpeg" width="300">
+</div>
+:::
+
+::: {.container}
+<div class="left">
+Figure 5. Liza Aceron's class photo. 
+</div>
+
+<div class="right">
+<img src="julia's images/IMG_2094.jpeg" width="300">
+</div>
+:::
+::: {.container}
+<div class="left">
+Figure 6. Full transcript of transferable credits to the U.S. 
 </div>
 
 <div class="right">
@@ -25,7 +74,7 @@ Figure 1. Full transcript of transferable credits to the U.S.
 
 ::: {.container}
 <div class="left">
-Figure 2. List of classes per semester; May 22nd, 1998  
+Figure 7. List of classes per semester; May 22nd, 1998  
 </div>
 
 <div class="right">
@@ -34,7 +83,7 @@ Figure 2. List of classes per semester; May 22nd, 1998
 :::
 ::: {.container}
 <div class="left">
-Figure 3. Continued list of classes; May 22nd, 1998  
+Figure 8. Continued list of classes; May 22nd, 1998  
 </div>
 
 <div class="right">
@@ -44,7 +93,7 @@ Figure 3. Continued list of classes; May 22nd, 1998
 
 ::: {.container}
 <div class="left">
-Figure 1. Final list of classes; May 22nd, 1998 
+Figure 9. Final list of classes; May 22nd, 1998 
 </div>
 
 <div class="right">

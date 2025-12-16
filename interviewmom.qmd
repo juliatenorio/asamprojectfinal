@@ -3,17 +3,7 @@ title: ""
 page-layout: full
 ---
 
-<div class="top-title">
-  <h1></h1>
-</div>
 
-<div class="hero-wrapper">
-  <img src="julia's images/mom with family.JPG" class="hero-logo">
-  <p class = "hero-caption"> Far right is mom, along with her mom, sister, and brother. Taken in 2013.</p>
-  <h2 class="hero-subtitle">Interview with the Acerons</h2>
-</div>
-
-<div class="intro-box">
 
 ## Interview Transcript 
 
@@ -90,3 +80,6 @@ Did a lot of history; Chinese History, American History, Spanish History
 Business Psychology, Stats 
 Income Taxation 
 Poli Sci classes 
+
+
+
